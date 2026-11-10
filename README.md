@@ -2,7 +2,7 @@
 
 Third-year **Mathematics-Computer Science** student at UC San Diego, minor in Data Science. I love turning messy, real-world data into insights that actually mean something — whether that's scraping 10,000+ job postings from Brazil, predicting stock volatility from Reddit, or building NLP pipelines for real estate search.
 
-Currently interning at **IDX Exchange** building a production NLP system for MLS listings. Open to data analyst internship opportunities.
+Currently interning at **Westinghouse Electric Company**. Open to data analyst internship opportunities.
 
 ---
 
